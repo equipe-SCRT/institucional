@@ -37,7 +37,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Bruna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunasanguini/)](https://www.linkedin.com/in/brunasanguini/)
 [![Linkedin Badge](https://img.shields.io/badge/-Emily-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-au-garcia/)](https://www.linkedin.com/in//) 
-[![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-au-garcia/)](https://www.linkedin.com/in//) 
+[![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-branco-de-moraes/)](https://www.linkedin.com/in//) 
 [![Linkedin Badge](https://img.shields.io/badge/-Breno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-au-garcia/)](https://www.linkedin.com/in//) 
 [![Linkedin Badge](https://img.shields.io/badge/-Arthur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-au-garcia/)](https://www.linkedin.com/in//) 
 [![Linkedin Badge](https://img.shields.io/badge/-Eduardo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-au-garcia/)](https://www.linkedin.com/in//)

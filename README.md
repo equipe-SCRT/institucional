@@ -36,7 +36,7 @@
 ## 🦸 Autores
 
 [![Linkedin Badge](https://img.shields.io/badge/-Bruna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunasanguini/)](https://www.linkedin.com/in/brunasanguini/)
-[![Linkedin Badge](https://img.shields.io/badge/-Emily-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emilyferreira/)](https://www.linkedin.com/in/emilyferreira/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Emily-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emyyyferreira/)](https://www.linkedin.com/in/emyyyferreira/) 
 [![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielBmoraes/)](https://www.linkedin.com/in/gabrielBmoraes/) 
 [![Linkedin Badge](https://img.shields.io/badge/-Breno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brenodelmondes/)](https://www.linkedin.com/in/brenodelmondes/) 
 [![Linkedin Badge](https://img.shields.io/badge/-Arthur-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthurmoraes/)](https://www.linkedin.com/in/arthurmoraes/) 

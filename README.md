@@ -62,7 +62,7 @@ Feito com ❤️ pela equipe SCRT👋🏽
 </ul>
 
 <div>
-  <p>Sendo organizados da seguinte forma <h3>ec/featura/nova-dash/</h3><br>
+  <p>Sendo organizados da seguinte forma <h3>ec/feature/nova-dash/</h3><br>
   sendo ec = descrição <br>
   feature = descrição <br>
   nova-dash = funcionalidade</p> <br>

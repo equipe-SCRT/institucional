@@ -45,3 +45,36 @@
 ---
 
 Feito com ❤️ pela equipe SCRT👋🏽
+
+
+
+<br><br>
+
+<h1>Commit semântico e boas práticas no github</h1>
+
+<h2>Commits e PullRequest</h2>
+<br><br>
+<p>Sempre que forem abrir uma nova branch por favor criem uma branch com os seguintes fatores: </p>
+<ul>
+  <li>Nome</li>
+  <li>Descrição</li>
+  <li>Funcionalidade</li>
+</ul>
+
+<div>
+  <p>Sendo organizados da seguinte forma <h3>ec/featura/nova-dash/</h3><br>
+  sendo ec = descrição <br>
+  feature = descrição <br>
+  nova-dash = funcionalidade</p> <br>
+  
+</div>
+
+
+<h3>Pull requests: </h3>
+<p>Sempre apos criar uma branch, testar e commitar nela abra um pull request para uma branch chamada release/dd-MM-aaaa</p><br>
+<p>sendo dd = dia <br>
+MM = mês <br>
+aaaa = ano<br>
+Seguindo o sentido de ser sempre na sexta feira de reunião, para podermos ver o que todos fizeram e mandar para a branch main.<br>
+</p>
+

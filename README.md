@@ -8,6 +8,7 @@
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-ferramentas-utilizadas">Ferramentas utilizadas</a> • 
+ <a href="#-boas-práticas-no-github">Boas práticas no github</a> • 
  <a href="#-autores">Autores</a> • 
 </p>
 
@@ -31,7 +32,33 @@
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
 
 
-
+## Boas práticas no github
+<p><b>Configuração de Branch</b></p> <br>
+<p>Sempre que forem abrir uma nova branch seguir os seguintes critérios: </p>
+<ol>
+  <li>Nome</li>
+  <li>Descrição</li>
+  <li>Funcionalidade</li>
+</ol>
+<p>Caso exemplo: ec/feature/nova-dash/</p>
+<ol>
+   <li> ec: Eduardo Corrêa (Nome)</li>
+   <li>feature (Descrição)</li>
+   <li>nova-dash (Funcionalidade)</li>
+</ol>
+<p><b>Configuração de Pull Request</b></p> <br>
+<p>Sempre que forem realizar um Pull Request seguir os seguintes critérios: </p>
+<ol>
+  <li>Release</li>
+  <li>Data</li>
+</ol>
+<p>Caso exemplo: release/09-12-2024</p>
+<ol>
+   <li>Release</li>
+   <li>09 - dia</li>
+   <li>12 - mês</li>
+   <li>2024 - ano</li>
+</ol>
 
 ## 🦸 Autores
 
@@ -46,28 +73,6 @@
 
 Feito com ❤️ pela equipe SCRT👋🏽
 
-
-
-<br><br>
-
-<h1>Commit semântico e boas práticas no github</h1>
-
-<h2>Commits e PullRequest</h2>
-<br><br>
-<p>Sempre que forem abrir uma nova branch por favor criem uma branch com os seguintes fatores: </p>
-<ul>
-  <li>Nome</li>
-  <li>Descrição</li>
-  <li>Funcionalidade</li>
-</ul>
-
-<div>
-  <p>Sendo organizados da seguinte forma <h3>ec/feature/nova-dash/</h3><br>
-  sendo ec = nome <br>
-  feature = descrição <br>
-  nova-dash = funcionalidade</p> <br>
-  
-</div>
 
 
 <h3>Pull requests: </h3>

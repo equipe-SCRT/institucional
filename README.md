@@ -9,6 +9,7 @@
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-ferramentas-utilizadas">Ferramentas utilizadas</a> • 
  <a href="#-boas-práticas-no-github">Boas práticas no github</a> • 
+ <a href="#-estrutura-do-projeto">Estrutura do Projeto</a> • 
  <a href="#-autores">Autores</a> • 
 </p>
 
@@ -77,6 +78,8 @@
 - `style` - Commits do tipo style indicam que houveram alterações referentes a **formatações de código**, semicolons, trailing spaces, lint... (Não inclui alterações em código).
   
 <p>Caso exemplo: git commit -m 'fix: campo nome em funcionario'</p>
+
+## ⚙️ Estrutura do Projeto
 
 
 ## 🦸 Autores

@@ -59,6 +59,25 @@
    <li>12 - mês</li>
    <li>2024 - ano</li>
 </ol>
+<p><b>Configuração de Commits</b></p> <br>
+<p>Sempre que forem realizar um commit seguir os seguintes critérios: </p>
+
+- `feat`- Commits do tipo feat indicam que seu trecho de código está incluindo um **novo recurso**.
+
+- `fix` - Commits do tipo fix indicam que seu trecho de código commitado está **solucionando um problema** (bug fix), (se relaciona com o PATCH do versionamento semântico).
+
+- `docs` - Commits do tipo docs indicam que houveram **mudanças na documentação**, como por exemplo no Readme do seu repositório. (Não inclui alterações em código).
+
+- `test` - Commits do tipo test são utilizados quando são realizadas **alterações em testes**, seja criando, alterando ou excluindo testes unitários. (Não inclui alterações em código)
+
+- `build` - Commits do tipo build são utilizados quando são realizadas modificações em **arquivos de build e dependências**.
+
+- `perf` - Commits do tipo perf servem para identificar quaisquer alterações de código que estejam relacionadas a **performance**.
+
+- `style` - Commits do tipo style indicam que houveram alterações referentes a **formatações de código**, semicolons, trailing spaces, lint... (Não inclui alterações em código).
+  
+<p>Caso exemplo: git commit -m 'fix: campo nome em funcionario'</p>
+
 
 ## 🦸 Autores
 
@@ -75,11 +94,5 @@ Feito com ❤️ pela equipe SCRT👋🏽
 
 
 
-<h3>Pull requests: </h3>
-<p>Sempre apos criar uma branch, testar e commitar nela abra um pull request para uma branch chamada release/dd-MM-aaaa</p><br>
-<p>sendo dd = dia <br>
-MM = mês <br>
-aaaa = ano<br>
-Seguindo o sentido de ser sempre na sexta feira de reunião, para podermos ver o que todos fizeram e mandar para a branch main.<br>
-</p>
+
 

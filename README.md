@@ -80,7 +80,13 @@
 <p>Caso exemplo: git commit -m 'fix: campo nome em funcionario'</p>
 
 ## ⚙️ Estrutura do Projeto
+<p>Utilizamos o padrão <b>MVC (Model-View-Controller)</b> para organizar nosso projeto, uma vez que ele facilita a manutenção e a escalabilidade do código.</p>
 
+- Model: lida com a lógica de negócios e os dados.
+   
+- View: lida com a apresentação e interação com o usuário.
+
+- Controller: atua como intermediário entre o Model e a View, gerenciando a entrada do usuário e atualizando a Model conforme necessário.
 
 ## 🦸 Autores
 

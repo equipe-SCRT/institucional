@@ -1,6 +1,6 @@
 const express = require('express');
 var router = express.Router();
-var email = require('../controllers/emailController');
+var email = require('../controller/email');
 
 router.post("/enviar", (req, res) => {
     email.enviar(req,res);

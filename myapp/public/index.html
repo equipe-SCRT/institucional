@@ -416,12 +416,12 @@
 								<div class="contact-form">
 									<div id="formSubstitutor">
 										<p>
-											<input type="text" placeholder="Nome" name="name" id="nome">
-											<input type="email" placeholder="Email" name="email" id="email">
+											<input type="text" placeholder="Nome" name="name" id="ipt_nome">
+											<input type="email" placeholder="Email" name="email" id="ipt_email">
 										</p>
 										<p>
-											<input type="tel" placeholder="Telefone" name="phone" id="telefone">
-											<input type="text" placeholder="Assunto" name="subject" id="mensagem">
+											<input type="tel" placeholder="Telefone" name="phone" id="ipt_telefone">
+											<input type="text" placeholder="Assunto" name="subject" id="ipt_mensagem">
 										</p>
 										<p><textarea name="message" id="message" cols="30" rows="10"
 												placeholder="Mensagem"></textarea></p>
@@ -506,10 +506,10 @@
 
 <script>
 	function enviarEmail(){
-		var nome = nome.value;
-        var email = email.value;
-        var telefone = telefone.value;
-        var mensagem = mensagem.value;
+		var nome = ipt_nome.value;
+        var email = ipt_email.value;
+        var telefone = ipt_telefone.value;
+        var mensagem = ipt_mensagem.value;
         var erro = false;
 
         if (nome != null && email != null && telefone != null && mensagem != null) {

@@ -1,5 +1,5 @@
 
-emailModel = require("../models/emailModel");
+emailModel = require("../model/email");
 
 
 function enviar(req, res){

@@ -1,0 +1,17 @@
+{
+  "name": "institucional",
+  "version": "1.0.0",
+  "description": "<h2>Equipe SCRT™️</h2>\r <h4 align=\"center\"> \r \t🗸 Projeto Em Andamento 🗸\r </h4>",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./myapp/app.js"
+  },
+  "author": "edu-correa",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.19.2",
+    "morgan": "^1.10.0",
+    "nodemailer": "^6.9.13"
+  }
+}

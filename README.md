@@ -80,13 +80,13 @@
 <p>Caso exemplo: git commit -m 'fix: campo nome em funcionario'</p>
 
 ## ⚙️ Estrutura do Projeto
-<p>Utilizamos o padrão <b>MVC (Model-View-Controller)</b> para organizar nosso projeto, uma vez que ele facilita a manutenção e a escalabilidade do código.</p>
-
-- Model: lida com a lógica de negócios e os dados.
+<p>Para a estruturação do projeto, utilizamos, até o momento, os padrões <b>MVC (Model-View-Controller)</b>, <b>Adapter</b> e <b>SOLID</b>, que possuem diferentes conceitos, todos eles a fim de facilitar a escalabilidade e manutenção do código, fazendo com que ele seja mais fácil de estender, modificar e manter, conforme o sistema cresce e evolui.</p>
    
-- View: lida com a apresentação e interação com o usuário.
+- MVC: uma arquitetura de software que separa a lógica de negócios (Model), a apresentação (View) e a interação do usuário (Controller). Essa separação promove uma organização clara e modular do projeto.
 
-- Controller: atua como intermediário entre o Model e a View, gerenciando a entrada do usuário e atualizando a Model conforme necessário.
+- Adapter: utilizado para permitir a colaboração entre objetos com interfaces incompatíveis, atuando como um intermediário que traduz as chamadas de um formato para outro. Isso facilita a integração de componentes ou sistemas distintos.
+
+- SOLID: conjunto de cinco princípios de design de software que visam tornar o código mais modular, flexível e fácil de manter. Eles promovem a coesão, baixo acoplamento e abstração.
 
 ## 🦸 Autores
 

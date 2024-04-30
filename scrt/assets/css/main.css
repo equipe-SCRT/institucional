@@ -147,7 +147,7 @@ h6, .h6 {
 p {
   font-family: "Open Sans", sans-serif;
   font-weight: 400;
-  font-size: 1rem;
+  font-size: 1.25rem;
   letter-spacing: 0.1px;
   line-height: 1.8;
   color: #051922;
@@ -560,6 +560,7 @@ nav.main-menu ul li a {
   font-weight: 700;
   display: block;
   padding: 15px;
+  font-size: 16px;
 }
 
 nav.main-menu ul > li {
@@ -1395,7 +1396,7 @@ html, body {
   content: "";
   background-color: #07212e;
   z-index: -1;
-  opacity: 0.6;
+  filter: brightness(0.25) opacity(0.75);
 }
 
 .hero-text p.subtitle {
@@ -2253,11 +2254,11 @@ ul.social-link-team li a {
 }
 
 .form-title h2 {
-  font-size: 25px;
+  font-size: 30px;
 }
 
 .form-title p {
-  font-size: 15px;
+  font-size: 1.25rem;
   line-height: 1.8;
 }
 
@@ -2432,7 +2433,7 @@ p.product-price {
 p.product-price span {
   display: block;
   opacity: 0.8;
-  font-size: 15px;
+  font-size: 1.25rem;
   font-weight: 400;
 }
 
